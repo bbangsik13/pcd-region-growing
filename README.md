@@ -11,3 +11,5 @@ path와 seed(marker)를 지정해주어야한다.
 4.watershed_normal_polaruzation(2의 옛날ver, 자동과 비자동, cluseter 제한 유무의 차이)
 
 5.main에서 transform을 제외한 ver(사실상 1의 개선)
+
+6.pcd-region-growing.cpp은 main의 cpp 버전
